@@ -1,10 +1,11 @@
 ---
-title: On Explaining Multimodal Hateful Meme Detection Models
+title: Decoding the Underlying Meaning of Multimodal Hateful Memes
 authors:
   - Ming Shan Hee
-  - Roy Ka-Wei Lee
-  - and Wen-Haw Chong
+  - Wen-Haw Chong
+  - and Roy Ka-Wei Lee
 author_notes: []
+publication: In *Proceedings of the ACM Web Conference 2022*
 publication_short: In *TheWebConf'2022*
 abstract: Hateful meme detection is a new multimodal task that has gained
   significant traction in academic and industry research communities. Recently,
@@ -27,25 +28,20 @@ tags:
   - Explainability
 projects: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2204.01734"
 publication_types:
   - "1"
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
-publication: In *Proceedings of the ACM Web Conference 2022*
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2022-04-01T00:00:00Z
+publishDate: 2022-04-01T00:00:00Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: https://github.com/Social-AI-Studio/On-Explaining-Multimodal-Hateful-Meme-Detection-Models
 doi: 10.1145/3485447.3512260
 ---
 

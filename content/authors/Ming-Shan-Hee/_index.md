@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hee Ming Shan
+title: "Ming Shan Hee"
 
 # Full name (for SEO)
 first_name: Ming Shan
@@ -22,12 +22,12 @@ organizations:
     url: https://istd.sutd.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the interdisciplinary field of Multimodal Learning and Explainable Artificial Intelligence (XAI), focusing specifically on the detection and explainability of online multimodal hate content on Social Networking Services (SNS).
+bio: My research interests lie in the interdisciplinary field of Multimodal Learning and Explainable Artificial Intelligence (XAI).
 
 # Interests to show in About widget
 interests:
-  - Computational Linguistics
   - Multimodal Learning
+  - Computational Linguistics
   - Explainable Artificial Intelligence (XAI) 
 
 # Education to show in About widget
@@ -62,4 +62,4 @@ social:
 highlight_name: true
 ---
 
-I am a third-year Ph.D. candidate at the Singapore University of Technology and Design (SUTD), under the guidance of Prof. Roy Ka-Wei Lee. My research interests lie in the interdisciplinary field of Multimodal Learning and Explainable Artificial Intelligence (XAI), focusing specifically on the detection and explainability of online multimodal hate content on Social Networking Services (SNS).
+I am a third-year Ph.D. candidate at the [Singapore University of Technology and Design (SUTD)](https://istd.sutd.edu.sg), under the guidance of [Prof. Roy Ka-Wei Lee](https://info.roylee.sg). My research interests lie in the interdisciplinary field of Multimodal Learning and Explainable Artificial Intelligence (XAI), focusing specifically on the detection and explainability of online multimodal hate content on Social Networking Services (SNS).
