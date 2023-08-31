@@ -16,7 +16,7 @@ sections:
     content:
       title: News
       text: "
-        **Aug 2023**: Invited to serve as a Reviewer for [EMNLP'23] https://2023.emnlp.org/ <br/>
+        **Aug 2023**: Invited to serve as a Reviewer for [EMNLP'23](https://2023.emnlp.org/) <br/>
         **Jul 2023**: Three papers accepted at [ACM MM'23](https://www.acmmm2023.org/) <br/>
         **Apr 2023**: Two papers accepted at [IJCAI'23](https://ijcai-23.org/) <br/>
         **Mar 2023**: One paper accepted at [ACM MMSys'23](https://2023.acmmmsys.org/) <br/>
